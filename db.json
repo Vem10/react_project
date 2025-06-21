@@ -1,0 +1,432 @@
+{
+  "products": [
+    {
+      "name": "Deep Red Gota Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "Red",
+      "description": "A deep red gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal1.webp",
+      "id": 1
+    },
+    {
+      "name": "Rani Pink Gota Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "Pink",
+      "description": "A red pink gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal2.webp",
+      "id": 2
+    },
+    {
+      "name": "Multi-Hued Gota Lehenga",
+      "price": "655,000",
+      "category": "bridal",
+      "color": "Multi-colour",
+      "description": "A multi hued gota lehenga paired with an illusion tie-up choli and an embroidered organza dupatta.",
+      "image": "assets/Bridal/bridal3.webp",
+      "id": 3
+    },
+    {
+      "name": "Peach Songbird Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "peach",
+      "description": "A peach songbird lehenga paired with an illusion tie-up choli and a sheer tulle dupatta.",
+      "image": "assets/Bridal/bridal4.webp",
+      "id": 4
+    },
+    {
+      "name": "Navratan Jhumke",
+      "price": "19,000",
+      "category": "jewellery",
+      "color": "gold",
+      "description": "Circular Shaped Emerald-Like Stone Center Piece Guarded With multi colour Stones For Adding Grace To The Piece Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel5.webp",
+      "id": 5
+    },
+    {
+      "name": "Bridal Rani Statement Bangle",
+      "price": "383,800",
+      "category": "jewellery",
+      "color": "pink",
+      "description": "Last thing on, first thing off Keep it dry Avoid perfumes & harsh chemicals Store carefully in a dry pouch Clean your jewelry with a soft cloth",
+      "image": "assets/Jewellery/jewel8.webp",
+      "id": 6
+    },
+    {
+      "name": "Navratan Bangle",
+      "price": "184,800",
+      "category": "bangle",
+      "color": "dark red",
+      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel6.webp",
+      "id": 7
+    },
+    {
+      "name": "Gold Finish Kundan Hathphool",
+      "price": "178,800",
+      "category": "jewellery",
+      "color": "dark red",
+      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel1.webp",
+      "id": 8
+    },
+    {
+      "name": "Dove-Grey Sherwani",
+      "price": "265,000",
+      "category": "groom",
+      "color": "white",
+      "description": "A dove-grey silk sherwani paired with an embroidered kurta, a churidar pyjama and handcrafted shoes",
+      "image": "assets/Groom/groom4.webp",
+      "id": 9
+    },
+    {
+      "name": "Inory Sherwani",
+      "price": "375,000",
+      "category": "groom",
+      "color": "gold",
+      "description": "An inory silk sherwani. The jacket features geometric and floral artworks gleaned from archival chikan-kari textile fragments. It is paired with a textured kurta, slim pants and handcrafted shoes. The look is completed with an embroidered dushala.",
+      "image": "assets/Groom/groom2.png",
+      "id": 10
+    },
+    {
+      "name": "Ivory Sequin Sherwani",
+      "price": "360,000",
+      "category": "groom",
+      "color": "wheat",
+      "description": "An ivory sequin encrusted sherwani paired with an embroidered kurta, a churidar pyjama and handcrafted shoes",
+      "image": "assets/Groom/groom6.webp",
+      "id": 11
+    },
+    {
+      "name": "Inky Black Silk Sherwani",
+      "price": "360,000",
+      "category": "groom",
+      "color": "wheat",
+      "description": "An inky black silk sherwani paired with slim fit pants and an embroidered dushala",
+      "image": "assets/Groom/groom5.png",
+      "id": 12
+    },
+    {
+      "name": "Deep Red Gota Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "Red",
+      "description": "A deep red gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal1.webp",
+      "id": 13
+    },
+    {
+      "name": "Rani Pink Gota Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "Pink",
+      "description": "A red pink gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal2.webp",
+      "id": 14
+    },
+    {
+      "name": "Multi-Hued Gota Lehenga",
+      "price": "655,000",
+      "category": "bridal",
+      "color": "Multi-colour",
+      "description": "A multi hued gota lehenga paired with an illusion tie-up choli and an embroidered organza dupatta.",
+      "image": "assets/Bridal/bridal3.webp",
+      "id": 15
+    },
+    {
+      "name": "Peach Songbird Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "peach",
+      "description": "A peach songbird lehenga paired with an illusion tie-up choli and a sheer tulle dupatta.",
+      "image": "assets/Bridal/bridal4.webp",
+      "id": 16
+    },
+    {
+      "name": "Navratan Jhumke",
+      "price": "19,000",
+      "category": "jewellery",
+      "color": "gold",
+      "description": "Circular Shaped Emerald-Like Stone Center Piece Guarded With multi colour Stones For Adding Grace To The Piece Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel5.webp",
+      "id": 17
+    },
+    {
+      "name": "Bridal Rani Statement Bangle",
+      "price": "383,800",
+      "category": "jewellery",
+      "color": "pink",
+      "description": "Last thing on, first thing off Keep it dry Avoid perfumes & harsh chemicals Store carefully in a dry pouch Clean your jewelry with a soft cloth",
+      "image": "assets/Jewellery/jewel8.webp",
+      "id": 18
+    },
+    {
+      "name": "Navratan Bangle",
+      "price": "184,800",
+      "category": "bangle",
+      "color": "dark red",
+      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel6.webp",
+      "id": 19
+    },
+    {
+      "name": "Gold Finish Kundan Hathphool",
+      "price": "178,800",
+      "category": "jewellery",
+      "color": "dark red",
+      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel1.webp",
+      "id": 20
+    },
+    {
+      "name": "Dove-Grey Sherwani",
+      "price": "265,000",
+      "category": "groom",
+      "color": "white",
+      "description": "A dove-grey silk sherwani paired with an embroidered kurta, a churidar pyjama and handcrafted shoes",
+      "image": "assets/Groom/groom4.webp",
+      "id": 21
+    },
+    {
+      "name": "Inory Sherwani",
+      "price": "375,000",
+      "category": "groom",
+      "color": "gold",
+      "description": "An inory silk sherwani. The jacket features geometric and floral artworks gleaned from archival chikan-kari textile fragments. It is paired with a textured kurta, slim pants and handcrafted shoes. The look is completed with an embroidered dushala.",
+      "image": "assets/Groom/groom2.png",
+      "id": 22
+    },
+    {
+      "name": "Ivory Sequin Sherwani",
+      "price": "360,000",
+      "category": "groom",
+      "color": "wheat",
+      "description": "An ivory sequin encrusted sherwani paired with an embroidered kurta, a churidar pyjama and handcrafted shoes",
+      "image": "assets/Groom/groom6.webp",
+      "id": 23
+    },
+    {
+      "name": "Inky Black Silk Sherwani",
+      "price": "360,000",
+      "category": "groom",
+      "color": "wheat",
+      "description": "An inky black silk sherwani paired with slim fit pants and an embroidered dushala",
+      "image": "assets/Groom/groom5.png",
+      "id": 24
+    },
+    {
+      "name": "Deep Red Gota Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "Red",
+      "description": "A deep red gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal1.webp",
+      "id": 25
+    },
+    {
+      "name": "Rani Pink Gota Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "Pink",
+      "description": "A red pink gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal2.webp",
+      "id": 26
+    },
+    {
+      "name": "Multi-Hued Gota Lehenga",
+      "price": "655,000",
+      "category": "bridal",
+      "color": "Multi-colour",
+      "description": "A multi hued gota lehenga paired with an illusion tie-up choli and an embroidered organza dupatta.",
+      "image": "assets/Bridal/bridal3.webp",
+      "id": 27
+    },
+    {
+      "name": "Peach Songbird Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "peach",
+      "description": "A peach songbird lehenga paired with an illusion tie-up choli and a sheer tulle dupatta.",
+      "image": "assets/Bridal/bridal4.webp",
+      "id": 28
+    },
+    {
+      "name": "Navratan Jhumke",
+      "price": "19,000",
+      "category": "jewellery",
+      "color": "gold",
+      "description": "Circular Shaped Emerald-Like Stone Center Piece Guarded With multi colour Stones For Adding Grace To The Piece Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel5.webp",
+      "id": 29
+    },
+    {
+      "name": "Bridal Rani Statement Bangle",
+      "price": "383,800",
+      "category": "jewellery",
+      "color": "pink",
+      "description": "Last thing on, first thing off Keep it dry Avoid perfumes & harsh chemicals Store carefully in a dry pouch Clean your jewelry with a soft cloth",
+      "image": "assets/Jewellery/jewel8.webp",
+      "id": 30
+    },
+    {
+      "name": "Navratan Bangle",
+      "price": "184,800",
+      "category": "bangle",
+      "color": "dark red",
+      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel6.webp",
+      "id": 31
+    },
+    {
+      "name": "Gold Finish Kundan Hathphool",
+      "price": "178,800",
+      "category": "jewellery",
+      "color": "dark red",
+      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel1.webp",
+      "id": 32
+    },
+    {
+      "name": "Dove-Grey Sherwani",
+      "price": "265,000",
+      "category": "groom",
+      "color": "white",
+      "description": "A dove-grey silk sherwani paired with an embroidered kurta, a churidar pyjama and handcrafted shoes",
+      "image": "assets/Groom/groom4.webp",
+      "id": 33
+    },
+    {
+      "name": "Inory Sherwani",
+      "price": "375,000",
+      "category": "groom",
+      "color": "gold",
+      "description": "An inory silk sherwani. The jacket features geometric and floral artworks gleaned from archival chikan-kari textile fragments. It is paired with a textured kurta, slim pants and handcrafted shoes. The look is completed with an embroidered dushala.",
+      "image": "assets/Groom/groom2.png",
+      "id": 34
+    },
+    {
+      "name": "Ivory Sequin Sherwani",
+      "price": "360,000",
+      "category": "groom",
+      "color": "wheat",
+      "description": "An ivory sequin encrusted sherwani paired with an embroidered kurta, a churidar pyjama and handcrafted shoes",
+      "image": "assets/Groom/groom6.webp",
+      "id": 35
+    },
+    {
+      "name": "Inky Black Silk Sherwani",
+      "price": "360,000",
+      "category": "groom",
+      "color": "wheat",
+      "description": "An inky black silk sherwani paired with slim fit pants and an embroidered dushala",
+      "image": "assets/Groom/groom5.png",
+      "id": 36
+    }
+  ],
+  "users": [
+    {
+      "name": "vemana",
+      "email": "vemana@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "harsh",
+      "email": "harsh@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "ayanava",
+      "email": "ayanava@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "oorja",
+      "email": "oorja@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "shaswata",
+      "email": "shaswata@user.com",
+      "password": "abc123",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "Inky Black Silk Sherwani",
+      "price": "360,000",
+      "category": "groom",
+      "color": "wheat",
+      "description": "an inky black silk sherwani paired with slim fit pants and an embroidered dushala",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "Navratan Bangle",
+      "price": "184,800",
+      "category": "bangle",
+      "color": "dark red",
+      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "Rani Pink Gota Lehenga",
+      "price": "325,000",
+      "category": "bridal",
+      "color": "Pink",
+      "description": "A red pink gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal2.webp",
+      "quantity": 4,
+      "productId": 2,
+      "userId": 1,
+      "id": 9
+    }
+  ],
+  "orders": [
+    {
+      "email": "harsh@user.com",
+      "address": "bihar",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "email": "oorja@user.com",
+      "address": "up",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "sha@gmail.com",
+      "address": "123",
+      "contact": "9000000000",
+      "totalPrice": 2945100,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "email": "sha@abc.com",
+      "address": "asdggnj",
+      "contact": "9999999999",
+      "totalPrice": 325100,
+      "userId": 5,
+      "id": 5
+    }
+  ]
+}
