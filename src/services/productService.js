@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3000'; // Adjust if using port 3001
+const BASE_URL = 'http://localhost:3001'; // Adjust if using port 3001
 
 export const popularProducts = async () => {
   const res = await axios.get(`${BASE_URL}/products?category=bridal&_limit=4`);
