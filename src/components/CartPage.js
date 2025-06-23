@@ -35,7 +35,7 @@ function CartPage() {
   const calculatePriceSummary = (cart) => {
     let price = 0;
     cart.forEach(item => {
-      price += item.price * item.quantity;
+      price += Number(item.price * item.quantity);
     });
     const tax = Math.round(price * 0.1);
     const delivery = price > 0 ? 40 : 0;
