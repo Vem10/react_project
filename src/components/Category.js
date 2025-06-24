@@ -31,7 +31,7 @@ function Category() {
       <div className="product-list">
         {categoryProducts.map(item => (
           <div className="product-card" key={item.id}>
-            <img src={item.image} alt={item.name} />
+            <img src={`/${item.image}`} alt={item.name} />
             <h4>{item.name}</h4>
             <p>{item.description}</p>
             <p style={{ fontWeight: 600 }}>Price: ₹{item.price}</p>

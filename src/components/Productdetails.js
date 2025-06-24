@@ -98,7 +98,7 @@ function ProductDetails() {
   return productData ? (
     <div className="row product-details">
       <div className="col-sm-6">
-        <img className="product-img" src={productData.image} alt="" />
+        <img className="product-img" src={`/${productData.image}`} alt="" />
       </div>
       <div className="col-sm-6">
         <div className="details">

@@ -359,86 +359,41 @@
   ],
   "cart": [
     {
-      "name": "Inky Black Silk Sherwani",
-      "price": 360000,
-      "category": "groom",
-      "color": "wheat",
-      "description": "an inky black silk sherwani paired with slim fit pants and an embroidered dushala",
-      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "name": "Deep Red Gota Lehenga",
+      "price": 325000,
+      "category": "bridal",
+      "color": "Red",
+      "description": "A deep red gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal1.webp",
       "quantity": 1,
       "productId": 1,
-      "userId": 3,
-      "id": 7
+      "userId": 2,
+      "id": 1
     },
     {
-      "name": "Navratan Bangle",
-      "price": 184800,
-      "category": "bangle",
-      "color": "dark red",
-      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
-      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "name": "Deep Red Gota Lehenga",
+      "price": 325000,
+      "category": "bridal",
+      "color": "Red",
+      "description": "A deep red gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal1.webp",
       "quantity": 1,
-      "productId": 5,
-      "userId": 3,
-      "id": 8
-    },
-    {
-      "name": "Navratan Jhumke",
-      "price": "19,000",
-      "category": "jewellery",
-      "color": "gold",
-      "description": "Circular Shaped Emerald-Like Stone Center Piece Guarded With multi colour Stones For Adding Grace To The Piece Gold Plated Light Weight",
-      "image": "assets/Jewellery/jewel5.webp",
-      "quantity": 7,
-      "productId": 29,
-      "userId": 1,
-      "id": 9
-    },
-    {
-      "name": "Gold Finish Kundan Hathphool",
-      "price": "178,800",
-      "category": "jewellery",
-      "color": "dark red",
-      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
-      "image": "assets/Jewellery/jewel1.webp",
-      "quantity": 1,
-      "productId": 32,
-      "userId": 1,
-      "id": 10
-    }
-  ],
-  "orders": [
-    {
-      "email": "harsh@user.com",
-      "address": "bihar",
-      "contact": "9999",
-      "totalPrice": 104750,
-      "userId": 1,
+      "productId": 13,
+      "userId": 2,
       "id": 2
     },
     {
-      "email": "oorja@user.com",
-      "address": "up",
-      "contact": "8877",
-      "totalPrice": 6100,
-      "userId": 1,
+      "name": "Inory Sherwani",
+      "price": 375000,
+      "category": "groom",
+      "color": "gold",
+      "description": "An inory silk sherwani. The jacket features geometric and floral artworks gleaned from archival chikan-kari textile fragments. It is paired with a textured kurta, slim pants and handcrafted shoes. The look is completed with an embroidered dushala.",
+      "image": "assets/Groom/groom2.png",
+      "quantity": 1,
+      "productId": 34,
+      "userId": 2,
       "id": 3
-    },
-    {
-      "email": "sha@gmail.com",
-      "address": "123",
-      "contact": "9000000000",
-      "totalPrice": 2945100,
-      "userId": 1,
-      "id": 4
-    },
-    {
-      "email": "sha@abc.com",
-      "address": "asdggnj",
-      "contact": "9999999999",
-      "totalPrice": 325100,
-      "userId": 5,
-      "id": 5
     }
-  ]
+  ],
+  "orders": []
 }
