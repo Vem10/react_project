@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-// import './Checkout.css';
+import '../css/Checkout.css';
  
 function Checkout() {
   const [orderMsg, setOrderMsg] = useState('');

@@ -2,8 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { login, signup } from '../services/userService';
 import { addToCart, getCartList } from '../services/productService';
-
-
+import '../css/UserAuth.css'
 
 function UserAuth() {
   const [showLogin, setShowLogin] = useState(true);

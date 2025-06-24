@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
-// import './ProductDetails.css';
+// import './css/ProductDetails.css';
 
 function ProductDetails() {
   const { productId } = useParams();

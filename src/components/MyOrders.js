@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-// import './MyOrders.css';
+import '../css/MyOrders.css';
 
 function MyOrders() {
   const [orderData, setOrderData] = useState([]);

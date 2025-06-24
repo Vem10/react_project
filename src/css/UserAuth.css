@@ -1,0 +1,143 @@
+.user-auth {
+    margin-left: 35px;
+    margin-bottom: 100px;
+    background: #110503; /* deep royal dark maroon */
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    
+   
+}
+.h1{
+    font-family:MonteCarlo;
+}
+ 
+.user-auth h1 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #9f7a4f; /* gold */
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 3.2rem;
+    text-shadow: 0 2px 10px #150401;
+        font-family:MonteCarlo;
+
+}
+ 
+.user-auth a {
+    color: #9f7a4f;
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: 500;
+    transition: color 0.2s;
+    display: inline;
+}
+ 
+.user-auth a:hover {
+    color: #9f7a4f;
+}
+ 
+/* Keep "Click Here" on the same line as the question */
+/* .user-auth p {
+    white-space: nowrap;
+} */
+ 
+.common-form {
+    background: rgba(17, 3, 2, 0.92);
+    border-radius: 16px;
+    box-shadow: 0 4px 32px rgba(0,0,0,0.4);
+    padding: 36px 32px 28px 32px;
+    max-width: 400px;
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    border: 1px solid #b8860b;
+}
+ 
+.form-input {
+    padding: 12px 16px;
+    border-radius: 8px;
+    border: 1px solid #9f7a4f;
+    background: #160603;
+    color: #9f7a4f;
+    font-size: 1rem;
+    margin-bottom: 8px;
+    outline: none;
+    transition: border 0.2s, box-shadow 0.2s;
+}
+ 
+.form-input:focus {
+    border: 1.5px solid #9f7a4f;
+    box-shadow: 0 0 8px #ffd70044;
+    background: #1c0603;
+}
+ 
+.form-button {
+    background: linear-gradient(90deg, #b8860b 0%, #ffd700 100%);
+    color: #1e0a07;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 0;
+    font-weight: bold;
+    font-size: 1.1rem;
+    cursor: pointer;
+    box-shadow: 0 2px 8px #1a010a33;
+    margin-top: 10px;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login .common-form p:last-child {
+    text-align: center;
+    width: 100%;
+    margin-top: 18px;
+    white-space: normal;
+}
+ 
+ 
+.form-button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+ 
+.form-button:hover:not(:disabled) {
+    background: linear-gradient(90deg, #9f7a4f 0%, #746e62 100%);
+    color: #240a07;
+    box-shadow: 0 4px 16px #ffd70066;
+}
+ 
+.error-p, .invalid-input span {
+    color: #ff4d4d;
+    font-size: 0.98rem;
+    margin: 0 0 6px 0;
+    text-align: center;
+}
+ 
+.sign-up, .login {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+@media (max-width: 600px) {
+    .common-form {
+        padding: 22px 10px 18px 10px;
+        max-width: 95vw;
+    }
+    .user-auth {
+        padding: 10px 0;
+    }
+}
+p{
+    color: white;
+}
+.already >p{
+    text-align: center;
+}

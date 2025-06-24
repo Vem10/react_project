@@ -24,6 +24,7 @@ function App() {
         <Route path="/checkout" element={<Checkout />} />
         <Route path="/my-orders" element={<MyOrders />} />
         <Route path="/category/:categoryName" element={<Category />} />
+        {/* <Route path='' element={}></Route> */}
       </Routes>
     </Router>
   );

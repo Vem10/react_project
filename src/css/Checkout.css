@@ -1,0 +1,116 @@
+/* .checkout h1{
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.checkout h3{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+} */
+ 
+.checkout {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 30px 40px;
+    background: #200b05;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+ 
+.checkout h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 40px;
+    font-size: 2.5rem;
+    color: #9b6e47;
+    letter-spacing: 1px;
+}
+ 
+.checkout h3 {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #9b6e47;
+    font-weight: 600;
+}
+ 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+}
+ 
+.col-sm-7, .col-sm-5 {
+    flex: 1 1 0;
+    min-width: 280px;
+}
+ 
+.common-form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 20px 0;
+}
+ 
+.form-input {
+    padding: 12px 14px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    font-size: 1rem;
+    transition: border 0.2s;
+    outline: none;
+}
+ 
+.form-input:focus {
+    border-color: #441f19;
+    background: #9b6e47;
+}
+ 
+.form-button {
+    padding: 12px 0;
+    background: #200d04;
+    color: #9b6e47;
+    border: none;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.form-button:hover {
+    background: #060201;
+}
+ 
+.message-p {
+    color: #0f2d1d;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+ 
+.col-sm-5 {
+    background: #9b6e47;
+    border-radius: 8px;
+    padding: 24px 18px;
+    margin-top: 30px;
+    box-shadow: 0 2px 8px rgba(49,130,206,0.06);
+}
+ 
+@media (max-width: 900px) {
+    .checkout {
+        padding: 18px 8px;
+    }
+    .row {
+        flex-direction: column;
+        gap: 0;
+    }
+    .col-sm-5 {
+        margin-top: 24px;
+    }
+}

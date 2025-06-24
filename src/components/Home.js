@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 import axios from 'axios';
-// import './Home.css';
+import '../css/Home.css'
 
 function Home() {
   const [popularProducts, setPopularProducts] = useState([]);
@@ -13,7 +13,7 @@ useEffect(() => {
     .then(res => setPopularProducts(res.data || []))
     .catch(err => console.error('Error fetching popular products:', err));
 
-  axios.get('http://localhost:3001/products?_sort=id&_order=desc&_limit=5')
+  axios.get('http://localhost:3001/products?_sort=id&_order=desc&_limit=8')
     .then(res => setTrendyProducts(res.data || []))
     .catch(err => console.error('Error fetching trendy products:', err));
 }, []);

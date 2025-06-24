@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import axios from 'axios';
-// import './Header.css';
+import "../css/Header.css"
 
 function Header() {
   const [menuType, setMenuType] = useState('default'); // or 'user'

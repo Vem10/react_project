@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import axios from 'axios';
-// import './Search.css';
+import '../css/Search.css';
 
 function Search() {
   const { query } = useParams();
