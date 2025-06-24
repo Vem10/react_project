@@ -381,6 +381,30 @@
       "productId": 5,
       "userId": 3,
       "id": 8
+    },
+    {
+      "name": "Navratan Jhumke",
+      "price": "19,000",
+      "category": "jewellery",
+      "color": "gold",
+      "description": "Circular Shaped Emerald-Like Stone Center Piece Guarded With multi colour Stones For Adding Grace To The Piece Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel5.webp",
+      "quantity": 7,
+      "productId": 29,
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "name": "Gold Finish Kundan Hathphool",
+      "price": "178,800",
+      "category": "jewellery",
+      "color": "dark red",
+      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
+      "image": "assets/Jewellery/jewel1.webp",
+      "quantity": 1,
+      "productId": 32,
+      "userId": 1,
+      "id": 10
     }
   ],
   "orders": [
