@@ -116,7 +116,7 @@ function ProductDetails() {
 
           {removeCart ? (
             <button className="custom-btn btn-5" onClick={() => removeFromCart()}>
-              Remove From Cart
+              Remove
             </button>
           ) : (
             <button className="custom-btn btn-5" onClick={addToCart}>
