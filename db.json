@@ -359,85 +359,93 @@
   ],
   "cart": [
     {
-      "name": "Inky Black Silk Sherwani",
-      "price": 360000,
-      "category": "groom",
-      "color": "wheat",
-      "description": "an inky black silk sherwani paired with slim fit pants and an embroidered dushala",
-      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
-      "quantity": 1,
-      "productId": 1,
-      "userId": 3,
-      "id": 7
-    },
-    {
-      "name": "Navratan Bangle",
-      "price": 184800,
-      "category": "bangle",
-      "color": "dark red",
-      "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
-      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
-      "quantity": 1,
-      "productId": 5,
-      "userId": 3,
-      "id": 8
-    },
-    {
       "name": "Navratan Jhumke",
-      "price": "19,000",
+      "price": 19000,
       "category": "jewellery",
       "color": "gold",
       "description": "Circular Shaped Emerald-Like Stone Center Piece Guarded With multi colour Stones For Adding Grace To The Piece Gold Plated Light Weight",
       "image": "assets/Jewellery/jewel5.webp",
-      "quantity": 7,
-      "productId": 29,
-      "userId": 1,
-      "id": 9
+      "quantity": 1,
+      "productId": 5,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Peach Songbird Lehenga",
+      "price": 325000,
+      "category": "bridal",
+      "color": "peach",
+      "description": "A peach songbird lehenga paired with an illusion tie-up choli and a sheer tulle dupatta.",
+      "image": "assets/Bridal/bridal4.webp",
+      "quantity": 1,
+      "productId": 4,
+      "userId": 2,
+      "id": 2
     },
     {
       "name": "Gold Finish Kundan Hathphool",
-      "price": "178,800",
+      "price": 178800,
       "category": "jewellery",
       "color": "dark red",
       "description": "Multicolored Stones Like Emerald, Ruby, Jade, Polki Diamond Bounded with Square-Shaped Polki Diamonds Gold Plated Light Weight",
       "image": "assets/Jewellery/jewel1.webp",
       "quantity": 1,
       "productId": 32,
-      "userId": 1,
-      "id": 10
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Rani Pink Gota Lehenga",
+      "price": 325000,
+      "category": "bridal",
+      "color": "Pink",
+      "description": "A red pink gota lehenga paired with an embroidered silk blouse",
+      "image": "assets/Bridal/bridal2.webp",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 2,
+      "id": 4
     }
   ],
   "orders": [
     {
-      "email": "harsh@user.com",
-      "address": "bihar",
-      "contact": "9999",
-      "totalPrice": 104750,
-      "userId": 1,
+      "email": "harsh@gmail.com",
+      "address": "KP-5",
+      "contact": "123456789",
+      "date": "2025-06-25T16:23:45.126Z",
+      "amount": 1025000,
+      "id": 1
+    },
+    {
+      "email": "abc@gmail.com",
+      "address": "qdr",
+      "contact": "12345668076",
+      "date": "2025-06-25T17:36:07.778Z",
+      "amount": 375100,
       "id": 2
     },
     {
-      "email": "oorja@user.com",
-      "address": "up",
-      "contact": "8877",
-      "totalPrice": 6100,
-      "userId": 1,
+      "email": "abcd@gmail.com",
+      "address": "xyz",
+      "contact": "4453865r78",
+      "date": "2025-06-25T19:14:51.289Z",
+      "amount": 847900,
       "id": 3
     },
     {
-      "email": "sha@gmail.com",
-      "address": "123",
-      "contact": "9000000000",
-      "totalPrice": 2945100,
-      "userId": 1,
+      "email": "harshkumar@gmail.com",
+      "address": " KIIT Hostel",
+      "contact": "892738578234",
+      "date": "2025-06-25T19:23:22.836Z",
+      "amount": 847900,
       "id": 4
     },
     {
-      "email": "sha@abc.com",
-      "address": "asdggnj",
-      "contact": "9999999999",
-      "totalPrice": 325100,
-      "userId": 5,
+      "email": "harshk@gmail.com",
+      "address": "5 Kl",
+      "contact": "874673681237671269",
+      "date": "2025-06-25T19:31:30.474Z",
+      "amount": 847900,
       "id": 5
     }
   ]
