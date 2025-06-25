@@ -16,8 +16,21 @@ function Checkout() {
     axios.get('http://localhost:3001/cart')
       .then(res => {
         const cartItems = res.data;
-        const price = cartItems.reduce((acc, item) => acc + item.price * item.quantity, 0);
-        setTotalPrice(price);
+      let price = 0;
+      cartItems.forEach(item => {
+        const itemPrice = Number(item.price);
+        const itemQuantity = Number(item.quantity);
+        if (!isNaN(itemPrice) && !isNaN(itemQuantity)) {
+          price += itemPrice * itemQuantity;
+        }
+      });
+
+      const discount = price / 10;
+      const tax = price / 10;
+      const delivery = price > 0 ? 100 : 0;
+      const total = price + tax + delivery - discount;
+
+      setTotalPrice(total);
       });
   }, []);
 
@@ -81,7 +94,8 @@ function Checkout() {
           </form>
         </div>
         <div className="col-sm-5">
-          <h3>Total Amount: {totalPrice}</h3>
+        <h3>Total Amount: ₹{Number(totalPrice).toLocaleString("en-IN")}</h3>
+
           <h4>Payment Method: <b>Pay on delivery</b></h4>
         </div>
       </div>
